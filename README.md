@@ -1,6 +1,6 @@
 <h1 align="left"> Andrey Lukin</h1>
 
-💼 Deputy CTO at <a href="https://fyst.com/"  target="blank">FYST</a> 
+💼 CTO at <a href="https://fyst.com/"  target="blank">FYST</a> 
 
 👨‍🏫 Author of the Go-development course from <a href="https://practicum.yandex.ru/go-advanced/" target="blank">Yandex Practicum</a>. 
 
